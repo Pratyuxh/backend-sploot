@@ -229,4 +229,5 @@ public class TableColumns {
 	public static final String PARENT_REMINDER = "parent_reminder_id";
 	public static final String PURGED_REMINDER = "purged_reminder_id";
 	public static final String COMMON_PET_BREED = "common_pet_breed";
+	public static final String COMMON_PET_NAME = "dog_cat";
 }
